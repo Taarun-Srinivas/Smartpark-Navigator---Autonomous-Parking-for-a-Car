@@ -17,5 +17,10 @@ The primary focus of the project is to create a reliable and effective parking s
 - C++
 
 # Real-time Demonstration
-<img src="https://github.com/Taarun-Srinivas/Smartpark-Navigator---Autonomous-Parking-for-a-Car/assets/52371207/31737151-ade2-406e-9794-5e1969d30806">
+
+<div align="center">
+
+https://github.com/Taarun-Srinivas/Smartpark-Navigator---Autonomous-Parking-for-a-Car/assets/52371207/33789106-9210-46c8-8af6-830bba8efdaf
+
+</div>
 
